@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://gamescan.net", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://wm5188.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "gamescan", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "wm5188.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "utnupes", // This allows an alternative site description for meta data for pages.
+    "wm5188.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "gamescan", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "wm5188.com", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "gamescan",
+    title: "wm5188.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://gamescan.net/",
+        url: "https://wm5188.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://gamescan.net/contact",
+        url: "https://wm5188.com/contact",
       },
     ],
   },
@@ -38,18 +38,18 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://gamescan.net/",
+        url: "https://wm5188.com/",
       },
       {
         label: "Sitemap",
-        url: "https://gamescan.net/sitemap.xml",
+        url: "https://wm5188.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://gamescan.net/contact",
+        url: "https://wm5188.com/contact",
       },
-      
+     
     ],
   },
   socialLinks: {
@@ -66,13 +66,13 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Us",
+    title: "Contact Built with Draftbox",
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "gamescan",
+    title: "wm5188.com",
     description:
-      "gamescan",
+      "wm5188.com",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "gamescan",
+    title: "wm5188.com",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "gamescan",
+  siteTitle: "wm5188.com",
   siteDescription:
-    "gamescan",
+    "wm5188.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
